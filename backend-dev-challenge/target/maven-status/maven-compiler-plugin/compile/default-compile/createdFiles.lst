@@ -1,6 +1,0 @@
-com/directa24/model/Movie.class
-com/directa24/exception/GlobalExceptionHandler.class
-com/directa24/config/AppConfig.class
-com/directa24/BackendDevChallengeApplication.class
-com/directa24/service/DirectorService.class
-com/directa24/controller/DirectorController.class

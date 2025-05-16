@@ -1,0 +1,12 @@
+com/directa24/client/MovieApiClient.class
+com/directa24/model/MovieResponse.class
+com/directa24/exception/GlobalExceptionHandler.class
+com/directa24/config/AppConfig.class
+com/directa24/utils/DirectorUtils.class
+com/directa24/BackendDevChallengeApplication.class
+com/directa24/service/DirectorService.class
+com/directa24/exception/InvalidPageException.class
+com/directa24/model/Movie.class
+com/directa24/controller/DirectorController.class
+com/directa24/exception/ServiceException.class
+com/directa24/service/DirectorServiceImpl.class

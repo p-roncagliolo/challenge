@@ -1,0 +1,12 @@
+/Users/paula.roncagliologmail.com/challengev2/challenge/backend-dev-challenge/src/main/java/com/directa24/client/MovieApiClient.java
+/Users/paula.roncagliologmail.com/challengev2/challenge/backend-dev-challenge/src/main/java/com/directa24/exception/ServiceException.java
+/Users/paula.roncagliologmail.com/challengev2/challenge/backend-dev-challenge/src/main/java/com/directa24/exception/InvalidPageException.java
+/Users/paula.roncagliologmail.com/challengev2/challenge/backend-dev-challenge/src/main/java/com/directa24/exception/GlobalExceptionHandler.java
+/Users/paula.roncagliologmail.com/challengev2/challenge/backend-dev-challenge/src/main/java/com/directa24/controller/DirectorController.java
+/Users/paula.roncagliologmail.com/challengev2/challenge/backend-dev-challenge/src/main/java/com/directa24/service/DirectorServiceImpl.java
+/Users/paula.roncagliologmail.com/challengev2/challenge/backend-dev-challenge/src/main/java/com/directa24/service/DirectorService.java
+/Users/paula.roncagliologmail.com/challengev2/challenge/backend-dev-challenge/src/main/java/com/directa24/BackendDevChallengeApplication.java
+/Users/paula.roncagliologmail.com/challengev2/challenge/backend-dev-challenge/src/main/java/com/directa24/utils/DirectorUtils.java
+/Users/paula.roncagliologmail.com/challengev2/challenge/backend-dev-challenge/src/main/java/com/directa24/model/MovieResponse.java
+/Users/paula.roncagliologmail.com/challengev2/challenge/backend-dev-challenge/src/main/java/com/directa24/model/Movie.java
+/Users/paula.roncagliologmail.com/challengev2/challenge/backend-dev-challenge/src/main/java/com/directa24/config/AppConfig.java
