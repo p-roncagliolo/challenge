@@ -42,7 +42,6 @@ public class DirectorServiceImpl implements DirectorService {
                 if (DirectorUtils.isInvalidResponse(response)) {
                     break;
                 }
-
                 DirectorUtils.updateDirectorCount(response, directorCount);
                 totalPages = response.total_pages();
                 logger.info("Page {} processed", page);

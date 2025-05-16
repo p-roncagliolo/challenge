@@ -40,12 +40,24 @@ backend-dev-challenge
 │   │   │   └── com
 │   │   │       └── directa24
 │   │   │           ├── BackendDevChallengeApplication.java
+│   │   │           ├── client
+│   │   │           │   └── MovieApiClient.java
+│   │   │           ├── config
+│   │   │           │   └── AppConfig.java
 │   │   │           ├── controller
 │   │   │           │   └── DirectorController.java
+│   │   │           ├── exception
+│   │   │           │   └── GlobalExceptionHandler.java
+│   │   │           │   └── InvalidPageException.java
+│   │   │           │   └── ServiceException.java
+│   │   │           ├── model
+│   │   │           │    └── Movie.java
+│   │   │           │    └── MovieResponse.java
 │   │   │           ├── service
 │   │   │           │   └── DirectorService.java
-│   │   │           └── model
-│   │   │               └── Movie.java
+│   │   │           │   └── DirectorServiceImpl.java
+│   │   │           └── util
+│   │   │                └── DirectorUtils.java
 │   │   └── resources
 │   │       ├── application.properties
 │   │       └── static
@@ -53,7 +65,10 @@ backend-dev-challenge
 │       └── java
 │           └── com
 │               └── directa24
-│                   └── BackendDevChallengeApplicationTests.java
+│                  ├── controller
+│                  │   └── DirectorControllerTest.java
+│                  └── service
+│                      └── DirectorServiceTest.java
 ├── pom.xml
 └── README.md
 ```
